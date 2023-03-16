@@ -1,0 +1,54 @@
+body{
+  background-color: #F8FFDB;
+  padding-right: 200;
+}
+
+.bgdiv{
+  background-image: url("programming.jpg");
+  height: 490px;
+  width: 100%;
+}
+.Myphoto{
+  padding-top: 60px;
+  margin-left: 100px;
+}
+
+.into{
+  margin-left: 100px;
+  margin-top: 10px;
+  width: 20%;
+  height: 220px;
+  margin-bottom: 10px;
+  position: relative;
+  display: inline-block;
+}
+.in{
+  height: 240px;
+  background-color: #F1DEC9;
+}
+.into2{
+  margin-top: 10px;
+  width: 60%;
+  height: 220px;
+  font-size: 20px;
+  font-style: oblique;
+  position: relative;
+  display: inline-block;
+}
+
+hr{
+  background-color: #F67280;
+  border-style: dotted, double, none;
+  height: 5px;
+  width: 100%;
+  margin: 0;
+}
+h1{
+  font-style: oblique;
+  color: white;
+}
+h4{
+  font-style: oblique;
+  font-family: sans-serif;
+  color: white;
+}
