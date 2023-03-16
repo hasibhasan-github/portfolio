@@ -37,6 +37,58 @@ body{
   display: inline-block;
 }
 
+.btn {
+  background-color: #2C3639;
+  border-color: #ECB365;
+  border-style: inset;
+  border-radius: 10px;
+  border-width: 4px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.skill{
+  background-color: #B9F3FC;
+  margin: 0;
+}
+.ali{
+  padding-left: 400px;
+}
+.ali2{
+  padding-left: 475px;
+}
+.skl{
+  width: 100%;
+  height: 250px;
+  background-color: #FBF8F1;
+}
+.si{
+  background-color: #FBF8F1;
+  height: 120px;
+  width: 100%;
+  margin-left: 50px;
+  position: inherit;
+}
+.soft2{
+  font-size: 26px;
+  font-style: oblique;
+}
+.soft{
+  padding-top: 5px;
+  font-size: 26px;
+  margin-left: 60px;
+  padding-bottom: 10px;
+}
+
+.tab2{
+  tab-size: 4;
+}
 hr{
   background-color: #F67280;
   border-style: dotted, double, none;
