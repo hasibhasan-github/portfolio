@@ -60,7 +60,7 @@ body{
   width: 100%;
 }
 .ali{
-  padding-left: 400px;
+  padding-left: 450px;
 }
 .ali2{
   padding-left: 475px;
@@ -89,6 +89,21 @@ body{
 
 .tab2{
   tab-size: 4;
+}
+.skl2{
+  width: 100%;
+  height: 220px;
+  background-color: #F5EBEB;
+}
+.edu{
+  height: 150px;
+  margin-left: 40px;
+  margin-top: 35px;
+}
+.iubinfo{
+  font-size: 22px;
+  font-style: oblique;
+  margin-left: 20px;
 }
 hr{
   background-color: #F67280;
